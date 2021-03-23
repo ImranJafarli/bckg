@@ -1,0 +1,26 @@
+body{
+    background-image: url(../image/295499.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.saat h1{
+   position: absolute;
+   font-size: 150px;
+   top: 90px;
+   left: 550px;
+   color: white;
+}
+.saat .salam{
+    position: absolute;
+    font-size: 80px;
+    top: 350px;
+    left: 300px;
+    color: white;
+}
+.saat .today{
+    position: absolute;
+    font-size: 40px;
+    top: 480px;
+    left: 390px;
+    color: white;
+}
